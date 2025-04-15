@@ -1,11 +1,11 @@
 # COMPUTACIÓN CIENTÍFICA 2025
 
-## Repositorio con el contenido de la materia
+## Repositorio público
 
-- Prácticas
-- Exámenes
-- Archivos .ipynb
+- Prácticas.
+- Archivos .ipynb.
+- Exámenes y TP's.
 
-### Este repositorio se actualiza constantemente
+### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 14-04-2025 21:57:52 zona horaria UTC-03:00
+Última actualización pública: 14-04-2025 22:04:25 zona horaria UTC-03:00
