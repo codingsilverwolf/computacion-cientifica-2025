@@ -6,6 +6,11 @@
 - Archivos .ipynb.
 - Exámenes y TP's.
 
+
+### Update:
+* bitácora, actualización: leer para orientarse.
+
+
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 14-04-2025 22:17:03 zona horaria UTC-03:00
+Última actualización pública: 21-04-2025 10:54:38 zona horaria UTC-03:00
