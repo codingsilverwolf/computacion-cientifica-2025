@@ -8,9 +8,9 @@
 
 
 ### Update:
-* bitácora, actualización: leer para orientarse.
+* Disponible v. 1.0 de la PCA 2
 
 
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 29-04-2025 12:38:52 zona horaria UTC-03:00
+Última actualización pública: 29-04-2025 12:40:28 zona horaria UTC-03:00
