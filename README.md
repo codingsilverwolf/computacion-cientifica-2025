@@ -8,9 +8,9 @@
 
 
 ## Update:
-### *Se actualizó el .ipynb de la clase del martes. Hay más tarea :).*
+### *Se actualizó la bitácora*
 
 
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 09-05-2025 20:34:18 zona horaria UTC-03:00
+Última actualización pública: 10-05-2025 09:57:30 zona horaria UTC-03:00
