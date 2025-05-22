@@ -8,13 +8,9 @@
 
 
 ## Update:
-#### *Full actualización bitácora: se corrigió la numeración, se añadieron clases faltantes, se añadió más información a las clases. Íconos más representativos.*
-
-#### *Prácticas: numeración de páginas.*
-
-#### *P2: Mejora de enunciados. Se añadió un ejercicio más de parcial.*
+### *bitácora*, *trabajo autónomo*
 
 
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 17-05-2025 08:24:06 zona horaria UTC-03:00
+Última actualización pública: 22-05-2025 09:58:32 zona horaria UTC-03:00
