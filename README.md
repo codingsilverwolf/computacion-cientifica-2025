@@ -8,9 +8,9 @@
 
 
 ## Update:
-### *bitácora*, *trabajo autónomo*
+### *bitácora*, *nuevo apunte sobre convergencia*, *trabajo autónomo*
 
 
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 22-05-2025 09:58:32 zona horaria UTC-03:00
+Última actualización pública: 25-05-2025 19:41:31 zona horaria UTC-03:00
