@@ -8,9 +8,9 @@
 
 
 ## Update:
-### *bitácora*, *nuevo apunte sobre convergencia*, *trabajo autónomo*
+### *bitácora*, *clase_cc_06_05_2025.ipynb*
 
 
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 25-05-2025 19:41:31 zona horaria UTC-03:00
+Última actualización pública: 31-05-2025 09:54:34 zona horaria UTC-03:00
