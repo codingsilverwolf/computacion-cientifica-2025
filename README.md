@@ -8,9 +8,9 @@
 
 
 ## Update:
-### *bitácora*, *clase_cc_06_05_2025.ipynb*
+### *bitácora*, *tp2_ecsnolineales_cc_2025.pdf*
 
 
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 05-06-2025 19:15:42 zona horaria UTC-03:00
+Última actualización pública: 05-06-2025 19:24:13 zona horaria UTC-03:00
