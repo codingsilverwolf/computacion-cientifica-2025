@@ -8,9 +8,11 @@
 
 
 ## Update:
-### *bitácora*, *tp2_ecsnolineales_cc_2025.pdf*
+### *Bitácora*
+### *Apunte de convergencia v. 2.0: se unificó notación para las raíces. Se añadieron Teoremas, corolarios y demostraciones*
+### *TP2: Se hizo más explícita la consigna B. 2)*
 
 
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 05-06-2025 19:24:13 zona horaria UTC-03:00
+Última actualización pública: 07-06-2025 11:03:13 zona horaria UTC-03:00
