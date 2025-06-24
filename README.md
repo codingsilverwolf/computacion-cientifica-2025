@@ -7,12 +7,10 @@
 - Exámenes y TP's.
 
 
-## Update:
-### *Bitácora*
-### *Apunte de convergencia v. 2.0: se unificó notación para las raíces. Se añadieron Teoremas, corolarios y demostraciones*
-### *TP2: Se hizo más explícita la consigna B. 2)*
+## Nuevo update:
+### clase_codeointeligente_cc_2025.ipynb
 
 
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 24-06-2025 12:14:14 zona horaria UTC-03:00
+Última actualización pública: 24-06-2025 12:26:03 zona horaria UTC-03:00
